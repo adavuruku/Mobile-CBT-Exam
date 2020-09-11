@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_new"
+        android:orderInCategory="100"
+        android:title="@string/action_new"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_view"
+        android:orderInCategory="200"
+        android:title="@string/action_view"
+        android:icon="@drawable/ic_alluser"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/switchView"
+        android:orderInCategory="300"
+        android:title="@string/action_switch"
+        android:icon="@drawable/ic_switch"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_login"
+        android:orderInCategory="400"
+        android:title="@string/action_login"
+        android:icon="@drawable/ic_login"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="500"
+        android:title="@string/action_exit"
+        android:icon="@drawable/ic_logout"
+        app:showAsAction="ifRoom" />
+</menu>

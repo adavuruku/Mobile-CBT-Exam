@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_twosmall">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loading"
+        android:textStyle="bold"
+        android:id="@+id/txtName"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:textColor="@color/coloryellow"
+        android:background="@color/colorPrimaryDark"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="49dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loading"
+        android:textStyle="bold"
+        android:id="@+id/txtUsername"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:textColor="@color/coloryellow"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginTop="74dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/loading"
+        android:textStyle="bold"
+        android:id="@+id/timeLeft"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:layout_marginTop="74dp"
+        android:textColor="@color/coloryellow"
+        android:background="@color/colorPrimaryDark"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</LinearLayout>

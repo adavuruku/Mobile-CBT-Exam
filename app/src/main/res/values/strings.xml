@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">P C N L CBT.</string>
+
+    <string name="app_result">C B T RESULT.</string>
+    <string name="app_home">My Account.</string>
+    <string name="app_all">All My Practice.</string>
+
+    <string name="action_login">Login</string>
+    <string name="action_view">View All Users</string>
+    <string name="action_new">Create New Account</string>
+    <string name="action_exit">Close CBT</string>
+
+    <string name="start_cbt">Start CBT Practice</string>
+    <string name="view_cbt">View All CBT Practice</string>
+
+    <string name="action_switch">Switch View</string>
+    <!-- create account -->
+
+    <string name="action_home">My Account</string>
+    <string name="hint_fullname">Enter Full_Name</string>
+    <string name="hint_username">Enter User_Name</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="save_record">Save Record </string>
+    <string name="browse_pics">  Gallery </string>
+    <string name="snap_pics"> Camera </string>
+
+    <string name="begin_exam"> Start CBT Exam </string>
+    <string name="company">Pesoka Computers Nigeria Limited.</string>
+    <string name="student_s_cbt">Student\'s CBT App.</string>
+    <string name="welcome">Welcome !!!</string>
+
+    <string name="login_h">CBT Login Platform. </string>
+    <string name="previous"><![CDATA[Previous]]></string>
+    <string name="submit"><![CDATA[Submit]]></string>
+    <string name="next"><![CDATA[Next]]></string>
+    <string name="profilepics">ProfilePics</string>
+    <string name="loading">Loading ...</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_activity_profile_view">ProfileView</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
